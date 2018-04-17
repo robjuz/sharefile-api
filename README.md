@@ -34,7 +34,7 @@ $client->getItemContents($picture['Id']);
 ## Installation
 You can install the package via composer:
 ``` bash
-composer require kapersoft/sharefile-api
+composer require robjuz/sharefile-api
 ```
 
 ## Usage
